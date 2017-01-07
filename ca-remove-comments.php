@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Creative Asset Remove Comments
-Plugin URI: http://www.creative-asset.co.uk
+Plugin URI: https://github.com/CreativeA/ca-remove-comments
 Description: Client dashboard
 Version: 1.1
 Author: Creative Asset
