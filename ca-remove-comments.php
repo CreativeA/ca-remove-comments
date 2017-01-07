@@ -6,6 +6,7 @@ Description: Client dashboard
 Version: 1.1
 Author: Creative Asset
 License: GPLv2
+GitHub Plugin URI: https://github.com/CreativeA/ca-remove-comments
 */
 
 /*--------------------------------------------------
