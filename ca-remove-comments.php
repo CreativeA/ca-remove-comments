@@ -95,7 +95,7 @@ function creativea_comments_admin_bar() {
 }
 
 /*-----------------------------------------------
- * Beaver Builder
+ * Beaver Builder TESTING THINGS
  -----------------------------------------------*/
 
 function ca_add_comment_stylesheet(){
