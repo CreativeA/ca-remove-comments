@@ -95,7 +95,7 @@ function creativea_comments_admin_bar() {
 }
 
 /*-----------------------------------------------
- * Beaver Builder TESTING THINGS I hope it has
+ * Beaver Builder TESTING THINGS Has MAinWP working
  -----------------------------------------------*/
 
 function ca_add_comment_stylesheet(){
