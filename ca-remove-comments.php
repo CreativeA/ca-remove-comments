@@ -3,7 +3,7 @@
 Plugin Name: Creative Asset Remove Comments
 Plugin URI: https://github.com/CreativeA/ca-remove-comments
 Description: Client dashboard
-Version: 1.2
+Version: 1.3
 Author: Creative Asset
 License: GPLv2
 GitHub Plugin URI: https://github.com/CreativeA/ca-remove-comments
@@ -95,7 +95,7 @@ function creativea_comments_admin_bar() {
 }
 
 /*-----------------------------------------------
- * Beaver Builder TESTING THINGS Has MAinWP working
+ * Beaver Builder TESTING THINGS FINAL TEST
  -----------------------------------------------*/
 
 function ca_add_comment_stylesheet(){
